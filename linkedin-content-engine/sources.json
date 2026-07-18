@@ -1,0 +1,52 @@
+{
+  "feeds": [
+    {
+      "name": "Arab News - Business",
+      "region": "KSA",
+      "topic": "Business",
+      "url": "https://www.arabnews.com/rss.xml"
+    },
+    {
+      "name": "Zawya - MENA Business",
+      "region": "MENA",
+      "topic": "Business",
+      "url": "https://www.zawya.com/rss/business"
+    },
+    {
+      "name": "Gulf Business",
+      "region": "GCC",
+      "topic": "Business",
+      "url": "https://gulfbusiness.com/feed/"
+    },
+    {
+      "name": "Entrepreneur Middle East",
+      "region": "MENA",
+      "topic": "Startups",
+      "url": "https://www.entrepreneur.com/latest.rss"
+    },
+    {
+      "name": "Wamda",
+      "region": "MENA",
+      "topic": "Startups",
+      "url": "https://www.wamda.com/feed"
+    },
+    {
+      "name": "Forbes Middle East",
+      "region": "MENA",
+      "topic": "Business",
+      "url": "https://www.forbesmiddleeast.com/feed"
+    },
+    {
+      "name": "Saudi Press Agency",
+      "region": "KSA",
+      "topic": "Official Updates",
+      "url": "https://www.spa.gov.sa/rss.xml"
+    },
+    {
+      "name": "NEOM Newsroom",
+      "region": "KSA",
+      "topic": "Vision 2030",
+      "url": "https://www.neom.com/en-us/newsroom.rss"
+    }
+  ]
+}
